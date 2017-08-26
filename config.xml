@@ -25,24 +25,24 @@
   <plugin name="cordova-plugin-whitelist" source="npm" spec="~1.2.1"/>
   <icon src="icon.png"/>
   <platform name="android">
-    <icon src="www/res/icon/android/Hanuman.png" density="ldpi"/>
-    <icon src="www/res/icon/android/Hanuman.png" density="mdpi"/>
-    <icon src="www/res/icon/android/Hanuman.png" density="hdpi"/>
-    <icon src="www/res/icon/android/Hanuman.png" density="xhdpi"/>
-    <icon src="www/res/icon/android/Hanuman.png" density="xxhdpi"/>
-    <icon src="www/res/icon/android/Hanuman.png" density="xxxhdpi"/>
-    <splash src="www/res/screen/android/Hanuman.png" density="land-ldpi"/>
-    <splash src="www/res/screen/android/Hanuman.png" density="land-mdpi"/>
-    <splash src="www/res/screen/android/Hanuman.png" density="land-hdpi"/>
-    <splash src="www/res/screen/android/Hanuman.png" density="land-xhdpi"/>
-    <splash src="www/res/screen/android/Hanuman.png" density="land-xxhdpi"/>
-    <splash src="www/res/screen/android/Hanuman.png" density="land-xxxhdpi"/>
-    <splash src="www/res/screen/android/Hanuman.png" density="port-ldpi"/>
-    <splash src="www/res/screen/android/Hanuman.png" density="port-mdpi"/>
-    <splash src="www/res/screen/android/Hanuman.png" density="port-hdpi"/>
-    <splash src="www/res/screen/android/Hanuman.png" density="port-xhdpi"/>
-    <splash src="www/res/screen/android/Hanuman.png" density="port-xxhdpi"/>
-    <splash src="www/res/screen/android/Hanuman.png" density="port-xxxhdpi"/>
+    <icon src="Images/logo.png" density="ldpi"/>
+    <icon src="Images/logo.png" density="mdpi"/>
+    <icon src="Images/logo.png" density="hdpi"/>
+    <icon src="Images/logo.png" density="xhdpi"/>
+    <icon src="Images/logo.png" density="xxhdpi"/>
+    <icon src="Images/logo.png" density="xxxhdpi"/>
+    <splash src="Images/logo.png" density="land-ldpi"/>
+    <splash src="Images/logo.png" density="land-mdpi"/>
+    <splash src="Images/logo.png" density="land-hdpi"/>
+    <splash src="Images/logo.png" density="land-xhdpi"/>
+    <splash src="Images/logo.png" density="land-xxhdpi"/>
+    <splash src="Images/logo.png" density="land-xxxhdpi"/>
+    <splash src="Images/logo.png" density="port-ldpi"/>
+    <splash src="Images/logo.png" density="port-mdpi"/>
+    <splash src="Images/logo.png" density="port-hdpi"/>
+    <splash src="Images/logo.png" density="port-xhdpi"/>
+    <splash src="Images/logo.png" density="port-xxhdpi"/>
+    <splash src="Images/logo.png" density="port-xxxhdpi"/>
   </platform>
  
   <access origin="*"/>
